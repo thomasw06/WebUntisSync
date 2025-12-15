@@ -8,8 +8,8 @@ permissions:
 
 on:
   schedule:
-    # Sync every 6 hours
-    - cron: "*/15 * * * *"
+    # Schedule every hour
+    - cron: "0 */1 * * *"
   workflow_dispatch: # Manual trigger enabled
 
 jobs:
