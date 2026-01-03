@@ -4,18 +4,6 @@ PRODID:-//WebUntis Sync//webuntis-sync//EN
 X-WR-CALNAME:WebUntis Timetable
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VEVENT
-SUMMARY:Web technology
-DTSTART;TZID=Europe/Brussels:20251103T130000
-DTEND;TZID=Europe/Brussels:20251103T150000
-UID:1134628-20251103-1300@webuntis-sync
-DESCRIPTION:Dams / De Vos / Michiels / Verhulst\n1IT1a / 1IT1b / 1IT2a / 1
- IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT
- 7a / 1IT7b / 1IT8a / 1IT8b\n--------------------\nℹ️ Tussentijdse toet
- s - vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Digital fundamentals
 DTSTART;TZID=Europe/Brussels:20251105T090000
 DTEND;TZID=Europe/Brussels:20251105T110000
