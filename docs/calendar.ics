@@ -12,8 +12,8 @@ DESCRIPTION:Dams / Peeters / Van Camp / Van Merode\n1IT1a / 1IT1b / 1IT2a
  / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 
  1IT7a / 1IT7b / 1IT8a / 1IT8b\n--------------------\nℹ️ Tussentijdse t
  oets - kennis- en inzicht
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data networks
@@ -23,8 +23,8 @@ UID:503165-20251112-900@webuntis-sync
 DESCRIPTION:Horsmans\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -33,7 +33,7 @@ DTEND;TZID=Europe/Brussels:20251112T130000
 UID:510965-20251112-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:02.07_B.VIA (38) Theorielokaal
+LOCATION:02.07_B.VIA (40) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web technology
@@ -59,7 +59,7 @@ UID:514584-20251113-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
  1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
  -----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -80,8 +80,8 @@ DESCRIPTION:Binnemans / Casteels / Charpentier / Michiels / Peeters / Van
  Eyken / Vanhulle\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
  1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
  -----------------\nℹ️ Discover Day
-LOCATION:01.06.ELL (24) Gaming & VR\, 01.08_1.ELL (144) Aula\, 01.08_2.ELL
-  (125) Aula\, 01.08_3.ELL (144) Aula
+LOCATION:01.06.ELL (24) Gaming & VR\, 01.08_1.ELL (144) Auditorium 1\, 01.
+ 08_2.ELL (125) Auditorium 2\, 01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Discover IT
@@ -91,8 +91,8 @@ UID:506321-20251117-1400@webuntis-sync
 DESCRIPTION:Binnemans / Van Eyken\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a /
   1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1
  IT8a\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open labo IT
@@ -112,8 +112,8 @@ UID:523369-20251118-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -139,8 +139,8 @@ UID:505547-20251118-1600@webuntis-sync
 DESCRIPTION:Van Merode\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
  T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
  b\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data networks
@@ -150,8 +150,8 @@ UID:503171-20251119-900@webuntis-sync
 DESCRIPTION:Horsmans\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -160,7 +160,7 @@ DTEND;TZID=Europe/Brussels:20251119T130000
 UID:510971-20251119-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:02.06_B.VIA (38) Theorielokaal
+LOCATION:02.06_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web technology
@@ -186,7 +186,7 @@ UID:500526-20251120-900@webuntis-sync
 DESCRIPTION:Serneels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b 
  / 1IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -196,7 +196,7 @@ UID:514590-20251120-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
  1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
  -----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -206,8 +206,8 @@ UID:511499-20251121-1100@webuntis-sync
 DESCRIPTION:De Magtige\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
  T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
  b\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Databases
@@ -217,8 +217,8 @@ UID:504383-20251121-1400@webuntis-sync
 DESCRIPTION:De Pooter\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT
  4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Databases
@@ -226,7 +226,7 @@ DTSTART;TZID=Europe/Brussels:20251121T160000
 DTEND;TZID=Europe/Brussels:20251121T180000
 UID:504581-20251121-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:03.02.ELL (48) Leslokaal
+LOCATION:03.02.ELL (52) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -235,7 +235,7 @@ DTEND;TZID=Europe/Brussels:20251124T130000
 UID:1197493-20251124-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:03.11.ELL (48) Leslokaal
+LOCATION:03.11.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web technology
@@ -245,8 +245,8 @@ UID:523375-20251125-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -255,7 +255,7 @@ DTEND;TZID=Europe/Brussels:20251125T130000
 UID:1209271-20251125-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT2a / 1IT2b / 1IT3a / 1IT3b\n--------------------\nℹ
  ️ Labo
-LOCATION:03.04.ELL (48) Leslokaal
+LOCATION:03.04.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IoT experiments
@@ -273,8 +273,8 @@ UID:503177-20251126-900@webuntis-sync
 DESCRIPTION:Horsmans\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital fundamentals
@@ -298,7 +298,7 @@ DTSTART;TZID=Europe/Brussels:20251126T160000
 DTEND;TZID=Europe/Brussels:20251126T180000
 UID:1209220-20251126-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:03.04.ELL (48) Leslokaal
+LOCATION:03.04.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Business processes
@@ -308,7 +308,7 @@ UID:500532-20251127-900@webuntis-sync
 DESCRIPTION:Serneels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b 
  / 1IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -318,7 +318,7 @@ UID:514596-20251127-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
  1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
  -----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Discover IT
@@ -352,8 +352,8 @@ UID:1209259-20251128-1400@webuntis-sync
 DESCRIPTION:De Magtige\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
  T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
  b\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -372,8 +372,8 @@ UID:523381-20251202-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -400,8 +400,8 @@ UID:505553-20251202-1600@webuntis-sync
 DESCRIPTION:Van Merode\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
  T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
  b\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open labo IT
@@ -421,8 +421,8 @@ UID:503183-20251203-900@webuntis-sync
 DESCRIPTION:Horsmans\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web technology
@@ -448,7 +448,7 @@ UID:500538-20251204-900@webuntis-sync
 DESCRIPTION:Serneels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b 
  / 1IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -458,7 +458,7 @@ UID:514602-20251204-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
  1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
  -----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Discover IT
@@ -486,8 +486,8 @@ UID:511505-20251205-1100@webuntis-sync
 DESCRIPTION:De Magtige\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
  T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
  b\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Databases
@@ -497,8 +497,8 @@ UID:504389-20251205-1400@webuntis-sync
 DESCRIPTION:De Pooter\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT
  4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Databases
@@ -506,7 +506,7 @@ DTSTART;TZID=Europe/Brussels:20251205T160000
 DTEND;TZID=Europe/Brussels:20251205T180000
 UID:504593-20251205-1600@webuntis-sync
 DESCRIPTION:De Pooter\n1IT3a / 1IT3b\n--------------------\nℹ️ Labo
-LOCATION:03.04.ELL (48) Leslokaal
+LOCATION:03.04.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IoT experiments
@@ -523,7 +523,7 @@ DTEND;TZID=Europe/Brussels:20251208T130000
 UID:1197505-20251208-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:03.11.ELL (48) Leslokaal
+LOCATION:03.11.ELL (50) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open labo IT
@@ -543,8 +543,8 @@ UID:523387-20251209-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -570,8 +570,8 @@ UID:505556-20251209-1600@webuntis-sync
 DESCRIPTION:Van Merode\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
  T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
  b\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data networks
@@ -581,8 +581,8 @@ UID:503189-20251210-900@webuntis-sync
 DESCRIPTION:Horsmans\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Business processes
@@ -592,7 +592,7 @@ UID:500544-20251211-900@webuntis-sync
 DESCRIPTION:Serneels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b 
  / 1IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -602,7 +602,7 @@ UID:514608-20251211-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
  1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
  -----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Discover IT
@@ -643,7 +643,7 @@ DTEND;TZID=Europe/Brussels:20251215T130000
 UID:1197511-20251215-1100@webuntis-sync
 DESCRIPTION:Vander Vennet\n1IT3a / 1IT3b\n--------------------\nℹ️ Lab
  o
-LOCATION:02.06_B.VIA (38) Theorielokaal
+LOCATION:02.06_B.VIA (40) Projectlokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Open labo IT
@@ -663,8 +663,8 @@ UID:523393-20251216-900@webuntis-sync
 DESCRIPTION:Michiels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web technology
@@ -673,7 +673,7 @@ DTEND;TZID=Europe/Brussels:20251216T130000
 UID:1269353-20251216-1100@webuntis-sync
 DESCRIPTION:De Vos / Verhulst\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT
  3b / 1IT5a / 1IT5b\n--------------------\nℹ️ Labo
-LOCATION:01.34.VIA (220) Aula
+LOCATION:01.34.VIA (220) aula
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:IoT experiments
@@ -691,8 +691,8 @@ UID:505559-20251216-1600@webuntis-sync
 DESCRIPTION:Van Merode\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1I
  T4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8
  b\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data networks
@@ -702,8 +702,8 @@ UID:503195-20251217-900@webuntis-sync
 DESCRIPTION:Horsmans\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\
  n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital fundamentals
@@ -721,7 +721,7 @@ UID:500550-20251218-900@webuntis-sync
 DESCRIPTION:Serneels\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4
  a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b 
  / 1IT_VT_SOF1\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -731,7 +731,7 @@ UID:514614-20251218-1100@webuntis-sync
 DESCRIPTION:Dams\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 
  1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b\n---
  -----------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Databases
@@ -740,7 +740,7 @@ DTEND;TZID=Europe/Brussels:20251218T160000
 UID:1283023-20251218-1400@webuntis-sync
 DESCRIPTION:De Pooter\n1IT3a / 1IT3b / 1IT5a / 1IT5b\n--------------------
  \nℹ️ Labo
-LOCATION:03.02.ELL (48) Leslokaal
+LOCATION:03.02.ELL (52) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -749,7 +749,7 @@ DTEND;TZID=Europe/Brussels:20251219T110000
 UID:1213290-20251219-900@webuntis-sync
 DESCRIPTION:Peeters\n1IT2a / 1IT2b / 1IT3a / 1IT3b\n--------------------\n
  ℹ️ Labo
-LOCATION:03.07.ELL (50) Leslokaal
+LOCATION:03.07.ELL (49) Leslokaal
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -759,8 +759,8 @@ UID:1266299-20251219-1100@webuntis-sync
 DESCRIPTION:De Magtige / Luyckx / Vander Vennet\n1IT1a / 1IT1b / 1IT2a / 1
  IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT
  7a / 1IT7b / 1IT8a / 1IT8b\n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Databases
@@ -770,8 +770,8 @@ UID:504395-20251219-1400@webuntis-sync
 DESCRIPTION:De Pooter\n1IT1a / 1IT1b / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT
  4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b / 1IT7a / 1IT7b / 1IT8a / 1IT8b
  \n--------------------\nℹ️ Theorie
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Web technology
@@ -781,8 +781,8 @@ UID:1246858-20260106-900@webuntis-sync
 DESCRIPTION:Bollaert / Michiels / Possemiers / Van Eyken\n1IT1a / 1IT1b / 
  1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n-----------
  ---------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Databases
@@ -792,8 +792,8 @@ UID:1245963-20260108-900@webuntis-sync
 DESCRIPTION:De Vries / Peeters / Roelants / Verhulst\n1IT1a / 1IT1b / 1IT2
  a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n---------------
  -----\nℹ️ Digitaal
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Discover IT
@@ -813,8 +813,8 @@ UID:1245603-20260112-900@webuntis-sync
 DESCRIPTION:Charpentier / Horsmans / Serneels / Van Thielen\n1IT1a / 1IT1b
   / 1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n--------
  ------------\nℹ️ Digitaal examen
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -824,8 +824,8 @@ UID:1246515-20260114-900@webuntis-sync
 DESCRIPTION:Dams / De Pooter / Van Camp / Verhulst\n1IT1a / 1IT1b / 1IT2a 
  / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b\n-
  -------------------\nℹ️ Digitaal kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Programming principles
@@ -835,8 +835,8 @@ UID:1246524-20260114-1100@webuntis-sync
 DESCRIPTION:Dams / De Pooter / Van Camp / Verhulst\n1IT1a / 1IT1b / 1IT2a 
  / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b\n-
  -------------------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -846,8 +846,8 @@ UID:1246368-20260116-900@webuntis-sync
 DESCRIPTION:De Magtige / Manderyck / Mariën / Van Battel\n1IT1a / 1IT1b /
   1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n----------
  ----------\nℹ️ Digitaal kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Linux
@@ -857,8 +857,8 @@ UID:1246377-20260116-1100@webuntis-sync
 DESCRIPTION:De Magtige / Manderyck / Mariën / Van Battel\n1IT1a / 1IT1b /
   1IT2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b\n----------
  ----------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data networks
@@ -868,8 +868,8 @@ UID:1242524-20260120-900@webuntis-sync
 DESCRIPTION:De Vos / Horsmans / Van Merode / Verhulst\n1IT1a / 1IT1b / 1IT
  2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b
  \n--------------------\nℹ️ Digitaal kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Data networks
@@ -879,8 +879,8 @@ UID:1242518-20260120-1100@webuntis-sync
 DESCRIPTION:De Vos / Horsmans / Van Merode / Verhulst\n1IT1a / 1IT1b / 1IT
  2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6b
  \n--------------------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital fundamentals
@@ -890,8 +890,8 @@ UID:1246044-20260122-900@webuntis-sync
 DESCRIPTION:Horsmans / Michiels / Van Loo / Van Merode\n1IT1a / 1IT1b / 1I
  T2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6
  b\n--------------------\nℹ️ Digitaal kennis
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Digital fundamentals
@@ -901,8 +901,8 @@ UID:1246062-20260122-1200@webuntis-sync
 DESCRIPTION:Horsmans / Michiels / Van Loo / Van Merode\n1IT1a / 1IT1b / 1I
  T2a / 1IT2b / 1IT3a / 1IT3b / 1IT4a / 1IT4b / 1IT5a / 1IT5b / 1IT6a / 1IT6
  b\n--------------------\nℹ️ Digitaal vaardigheid
-LOCATION:01.08_1.ELL (144) Aula\, 01.08_2.ELL (125) Aula\, 01.08_3.ELL (14
- 4) Aula
+LOCATION:01.08_1.ELL (144) Auditorium 1\, 01.08_2.ELL (125) Auditorium 2\,
+  01.08_3.ELL (144) Auditorium 3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inzagerecht_dag
