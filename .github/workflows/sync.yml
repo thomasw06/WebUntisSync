@@ -9,7 +9,7 @@ permissions:
 on:
   schedule:
     # Schedule every 12 hours
-    - cron: "0 */12 * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch: # Manual trigger enabled
 
 jobs:
